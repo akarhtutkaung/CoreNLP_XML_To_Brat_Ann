@@ -1,3 +1,4 @@
-.conf
-.ann
-.txt
+*.conf
+*.ann
+*.txt
+*.xml
